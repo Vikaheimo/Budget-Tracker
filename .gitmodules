@@ -1,0 +1,6 @@
+[submodule "Budget-Tracker-Backend"]
+	path = Budget-Tracker-Backend
+	url = https://github.com/Vikaheimo/Budget-Tracker-Backend
+[submodule "Budget-Tracker-Frontend"]
+	path = Budget-Tracker-Frontend
+	url = https://github.com/Vikaheimo/Budget-Tracker-Frontend
